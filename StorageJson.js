@@ -21,7 +21,7 @@
 // node StorageJson /mnt/user/scp-storage/
 //
 // Create or regenerate Storage.json
-// node StorageJson /mnt/user/scp-storage/ > /root/scprime/Storage.json
+// node StorageJson /mnt/user/scp-storage/ > /root/scprime/storage.json
 
 const http = require('http');
 var diskPath = "/mnt/user";
